@@ -1,0 +1,29 @@
+import turtle library 
+
+Data File:
+50_states.csv
+blank_states_img.gif  
+
+
+The image should be in the background of canvas 
+
+prompt window to guess the state name 
+loop for 50 states 
+
+use the x and y cords to hower the write place in the map
+
+make a list of the data
+
+make a while loop that continues till the 50 right guesses 
+
+make a prompt window for another name 
+
+the right answers will be stored in a variable 
+
+the prompt should be continuous until 50 right guesses
+
+if user type exit the loop ends
+
+another for loop to check missing states and store it in a csv file  
+
+make a list in a cvs file also for the guessed states 
